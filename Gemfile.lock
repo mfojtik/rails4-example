@@ -122,7 +122,6 @@ DEPENDENCIES
   mysql2
   pg
   rails (= 4.1.4)
-  rake (~> 0.9.6)
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
   spring
