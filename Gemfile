@@ -4,9 +4,6 @@ gem 'rails', '4.1.4'
 
 ### OpenShift Online changes:
 
-# Fix the conflict with the system 'rake':
-# gem 'rake', '~> 0.9.6'
-
 # Support for databases and environment.
 # Use 'sqlite3' for testing and development and mysql and postgresql
 # for production.
